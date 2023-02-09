@@ -5,4 +5,4 @@ author: Ahmed Aly
 > 
 > then visit this URL: http://localhost:3000/
 > 
-> to test ** $npm test**
+> to test **$npm test**
